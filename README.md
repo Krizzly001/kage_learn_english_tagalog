@@ -1,6 +1,6 @@
 # Kage_learn_english_to_tagalog language learning application
 1. Intoduction
-2. 
+   
 1.1 Summary
    This project is a language learning application designed to help english speakers learn tagalog language.
    Providing lessons, vocabulary, grammar tests, quiezzes, building sentences and practice real conversations.
